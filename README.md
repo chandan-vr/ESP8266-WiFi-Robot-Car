@@ -129,9 +129,8 @@ Disclaimer
 This project is developed for educational, experimental, and robotics learning purposes. Use the robot responsibly and operate it in a safe environment.
 
 Developer
-
-Technical BD
-
+Chandan Barman
+Project Video link https://youtu.be/19yZim6kJ9w?si=z5otJnArK8-0Ygdm
 Exploring Electronics, IoT, Robotics, and Embedded Systems.
 
 License
